@@ -5,7 +5,7 @@ O projeto foi desenvolvido com o auxilio do conteúdo do canal: webdecoded
 
 Bibliotecas e Frameworks Utilizados: Bootstrap, SCSS, JS, React.
 
-Aprendizados
+Aprendizados:
 -Componentes
 -Artefatos
 -Containers
